@@ -1,0 +1,14 @@
+/*body{background-image:url(thelast.jpg);}*/
+body{background-color:black;}
+*{margin:0;padding:0;;box-sizing:border-box;}
+#menu-horizontal{list-style-tyle:mome;padding:0; background-image:url(thelast.jpg);}
+#menu-horizontal li {display:inline-block;color:white;text-decoration:none;padding:10px;}
+#menu-horizontal li a {display:inline-block;color:white;text-decoration:none;padding:10px;transition:background.6s;}
+#menu-horizontal li a:hover{background-color:navy;}
+p{color:#F5FFFA;}
+h3{color:#F5FFFA;font-size:15px;}
+	a{text-decoration:none;}
+	
+	h2{color:#F5FFFA;}
+	
+

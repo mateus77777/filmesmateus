@@ -1,0 +1,20 @@
+/*body{background-image:url(thelast.jpg);
+background-repeat:no-repeat;}*/
+*{margin:0;padding:0;;box-sizing:border-box;}
+#menu-horizontal{list-style-tyle:mome;padding:0;background-image:url(thelast.jpg);}
+#menu-horizontal li {display:inline-block;color:white;text-decoration:none;padding:10px;}
+#menu-horizontal li a {display:inline-block;color:white;text-decoration:none;padding:10px;transition:background.6s;}
+#menu-horizontal li a:hover{background-color:navy;}
+p{color:white;
+font-size:none;}
+button{background-color:red;
+border:none;
+text-align:center;
+text-decoration:inline-block;
+}
+h3{color:white;
+font-size:18px;}
+body{background-color:black;}
+
+a{text-decoration:none;}
+#guard{font-size:12px;}
